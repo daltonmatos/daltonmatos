@@ -1,7 +1,7 @@
 # Dalton Barreto ([@daltonmatos](https://github.com/daltonmatos))
 
 
-- Fiz Ciência da Computação - UFRJ (2002/2 - 2010/2)
+- Fiz Ciência da Computação na UFRJ (2002/2 - 2010/2)
 - Mantenho meu blog/site em https://daltonmatos.com onde escrevo sobre projetos e pesquisas que faço
 - Tenho interesse por Programação e Infra-estrutura
 - Minha linguagem de escolha é Python (3+) (https://docs.python.org/3/)
