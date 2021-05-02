@@ -9,7 +9,7 @@
 - Minha linguagem de escolha é Python (3+) (https://docs.python.org/3/)
 
 - Em meu tempo livre desenvolvo alguns projetos
-  - [asyncowrker](https://github.com/b2wdigital/async-worker) - Framework para escrever workers com I/O assíncrono em Python e baseado em Typehints
+  - [asyncowrker](https://github.com/async-worker/async-worker) - Framework para escrever workers com I/O assíncrono em Python e baseado em Typehints
   - [aiologger](https://github.com/b2wdigital/aiologger) - Lib para gerar logs usando I/O assíncrono em Python
 
 - Me pergunte sobre Python!
